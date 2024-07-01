@@ -26,7 +26,7 @@
 }
 
 .logo{
-    background-image: url("amazon-logo.webp");
+    background-image: url("photos/amazon-logo.webp");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -137,7 +137,7 @@ span{
 /** hero-section**/
 
 .hero-section{
-    background-image: url(IMAGE\ 1.jpg);
+    background-image: url(photos/IMAGE\ 1.jpg);
     background-size: cover;
     height: 400px;
     display: flex;
@@ -177,56 +177,56 @@ span{
     margin-top: 15px;
 }
 .box1-image{
-    background-image: url(IMAGE2.jpg);
+    background-image: url(photos/IMAGE2.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box2-image{
-    background-image: url(IMAGE4.jpg);
+    background-image: url(photos/IMAGE4.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box3-image{
-    background-image: url(IMAGE5.jpg);
+    background-image: url(photos/IMAGE5.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box4-image{
-    background-image: url(image6.jpg);
+    background-image: url(photos/image6.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box5-image{
-    background-image: url(IMAGE7.jpg);
+    background-image: url(photos/IMAGE7.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box6-image{
-    background-image: url(IMAGE8.jpg);
+    background-image: url(photos/IMAGE8.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box7-image{
-    background-image: url(IMAGE9.jpg);
+    background-image: url(photos/IMAGE9.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 .box8-image{
-    background-image: url(image\ 10.jpg);
+    background-image: url(photos/image\ 10.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
@@ -285,7 +285,7 @@ ul p{
     align-items: center;
 }
 .logo1{
-    background-image: url(amazon-logo.webp);
+    background-image: url(photos/amazon-logo.webp);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
